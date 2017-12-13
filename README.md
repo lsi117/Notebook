@@ -44,4 +44,20 @@ User logged in, form fill out to upload a resource:
 [Link to Wireframes](https://drive.google.com/open?id=14bIq-j-fpjNPiRt-nnvVhalakCBxcn7o)
 
 
+---
 
+## Technologies
+
+The technologies that I will be using are anything to do with a fullstack ruby app as well as try to use some authentication, so that way the user can have a personalized experience(and because I want to become more proficient at that). I might even use a library specifically for CSS, I don't plan to make extra fancy animations for my app, since I still want it to maintain functionality and be easy and simple to use. I might use those animations just for other things like when adding a to do list item to ease in or even ease in the title, but nothing to fancy and if anything the CSS is always the extra goodies, first comes functionality.
+
+## Timeline
+
+As soon as my proposal is approved I plan to do a little bit of the set up today and to get a majority of the project work done tomorrow, since it's a half day. After that I want to put as much work into it as I can and plan to finish sometime during the weekend. I always like to finish a bit early, IF I can because then I can work out any kinks that go wrong with the project.
+
+## Challenges
+
+I think that my biggest challenge will be dealing with auth, it's tricky, but I think that I can do it..I've done it before and survived the errors that came along with it. I should be able to accomplish it, but if for some reason I'm not able to then I really just want(at the bare min) to have a functional fullstack rails app with CRUD functionality. Also, possibly dealing with trying to have a user thumbs up or down a resource. Oh, and heroku I always have an issue with being able to deploy.
+
+## Project Board
+
+Working on it..
