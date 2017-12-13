@@ -29,7 +29,19 @@ Jane is starting a rigorous web development program where she will be learning t
 
 ## Wireframes
 
-![alternateText](https://drive.google.com/open?id=14bIq-j-fpjNPiRt-nnvVhalakCBxcn7o)
+User not logged in view:
+
+![alternateText](https://github.com/lsi117/Notebook/blob/master/Screen%20Shot%202017-12-12%20at%2011.12.04%20PM.png)
+
+User logged in, show view of resource:
+
+![alternateText](https://github.com/lsi117/Notebook/blob/master/Screen%20Shot%202017-12-12%20at%2011.12.24%20PM.png)
+
+User logged in, form fill out to upload a resource:
+![alternateText](https://github.com/lsi117/Notebook/blob/master/Screen%20Shot%202017-12-12%20at%2011.12.35%20PM.png)
+
+
+[Link to Wireframes](https://drive.google.com/open?id=14bIq-j-fpjNPiRt-nnvVhalakCBxcn7o)
 
 
 
