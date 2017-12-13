@@ -60,4 +60,4 @@ I think that my biggest challenge will be dealing with auth, it's tricky, but I 
 
 ## Project Board
 
-![alternateText](https://github.com/lsi117/Notebook/projects/1)
+![Project Board for Notebook](https://github.com/lsi117/Notebook/projects/1)
