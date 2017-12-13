@@ -1,2 +1,35 @@
-# Notebook
-This will be a notebook that will hold helpful links to programming sources. I wanted to create this because being new to programing, I can use all of the helpful links I can get.
+# Notebook 📓
+This will be a notebook that will hold helpful links to programming sources. I wanted to create this because being new to programing, I can use all of the helpful links I can get and also share some links that I think will be useful and helpful to the programming community.
+
+![alternateText](https://media.giphy.com/media/xT9IgsAZTS0OKXWIQo/giphy.gif)
+
+---
+
+## MVP
+
+A full stack Rails app with CRUD functionality.
+
+My Minimal Viable Product will be an app called Notebook. Notebook is an app where junior (and senior) programmers can sign up and upload links to viable resources that other programmers can use. These uploaded links can be up-voted or down-voted from other users. This will help distinguish which links are useful for everyone and what links should probably be deleted. Also, users will be able to write comments about the links, just for any else that might be of help.
+
+## Reach Goals?/ Post MVP
+
+Post MVP: 
+I would really like to work on extra bells and whistles: Maybe instead of JUST user auth I could somehow create a switch(like on the iphone) where a user can switch and then enter a series of numbers for their password. If correct, then sends them to the user sign in page view, if not, then it reloads and possibly does an animation of a message "Incorrect". I think that would be a really neat feature.
+
+Reach Goals: 
+I would not only like to add the personal touch of adding some user authentication, but explore more of my skills in CSS. I really like anything to do with security, it really peaks my interest and it's an area I would like to improve my skills on, so i'll push myself to do that. Also, I want to try and work on more of my css, so maybe try to take my styling to the next level by animating stuff. Ultimate goal is to have something that is functional and also pretty.
+
+## User story outline
+
+### Meet Jane, the Jr. Web Developer
+
+![alternateText](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
+Jane is starting a rigorous web development program where she will be learning to program at the speed of light. Even though Jane is okay at programming and has some knowledge of what to do, she consistently depends of resources to help her along the way. She usually bookmarks her resources so that way she can reach back and visit those helpful sites, but recently her bookmark log has gotten out of control and she needs help finding all of her stuff among all the other random things she has book marked. Luckily, Jane has found a really cool app called Notebook! Notebook allows her to see other resources uploaded from fellow programmers, not only that, but she can also tell which uploads are really helpful because of the upvote count. Jane can also see which ones are not so helpful, by the down votes and on top of that she can also see comments written by other users. As Jane grows on her web development journey she is able to upload helpful links to resources and also upvote or downvote other resources. Occasionally, she will also leave a comment of what she thinks, when a vote just won't do. It's the best since thing since sliced bread because Jane doesn't have to rummage through her book mark mess anymore, everything is in one place! This makes her life so much easier and stress free! While also allowing her to build bonds with the web development community and continue to grow as a developer herself.
+
+## Wireframes
+
+![alternateText](https://drive.google.com/open?id=14bIq-j-fpjNPiRt-nnvVhalakCBxcn7o)
+
+
+
